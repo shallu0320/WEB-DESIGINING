@@ -5,7 +5,7 @@ nos.map(
     function(n)
     {
         if (m<n){
-            m=n
+            m = n
         }
     }
        
